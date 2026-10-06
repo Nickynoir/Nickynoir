@@ -1,11 +1,11 @@
 
-- 👋 Hi, I’m Nicolas! but you can call me Nick.
-- 👀 I’m interested in ... Gaming, Cosplay, Listening to music, etc...
-- 🌱 I’m currently learning ... HTML, CSS, JS.
-- 💞️ I’m looking to collaborate on ... Front-End, Back-End, UI/UX, Gaming
-- 📫 How to reach me ... Right here! Well, Atleast for now.
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... Cat Noir is my favorite character! 💚🖤
+- 👋 **Hi, I’m Nicolas!** but you can call me **Nick**. I'm a student learning Web Development and UI Design, with the goal of becoming a global Full-Stack Developer & UI Designer. I love playing games, cosplaying, j-fashion, and watching kawaii videos! 
+
+- 🪽 Here's what i'm learning, Find myself interested in learning, and want to become pretty good at:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+- 🪄 Here's my tools:
+[![My Tools](https://skillicons.dev/icons?i=vscode,figma)](https://skillicons.dev)
 
 <!---
 Nickynoir/Nickynoir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
