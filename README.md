@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @Nickynoir
+- 👋 Hi, I’m Nicolas! but you can call me Nick.
 - 👀 I’m interested in ... Gaming, Cosplay, Listening to music, etc...
 - 🌱 I’m currently learning ... HTML, CSS, JS.
 - 💞️ I’m looking to collaborate on ... Front-End, Back-End, UI/UX, Gaming
