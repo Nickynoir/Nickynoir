@@ -1,7 +1,7 @@
 
-- 👋 **Hi, I’m Nicolas!** but you can call me **Nick**. I'm a student learning Web Development and UI Design, with the goal of becoming a global Full-Stack Developer & UI Designer. I love playing games, cosplaying, j-fashion, and watching kawaii videos! 
+- 👋 **Hi, I’m Nicolas!** but you can call me **Nick**. I'm a student learning Web Development and UI Design, with the goal of becoming a Full-Stack Developer & UI Designer. I love playing games, cosplaying, j-fashion, and watching kawaii videos! 
 
-- 🪽 Here's what i'm learning, Find myself interested in learning, and want to become pretty good at:
+- 🪽 Here's what I'm learning:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 - 🪄 Here's my tools:
